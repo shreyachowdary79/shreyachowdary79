@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 # 👩‍💻 About Me
 
 I'm a **Computer Science Engineering student** with a strong interest in **Data Analytics, Python, SQL, Business Intelligence, and data-driven problem solving**.
