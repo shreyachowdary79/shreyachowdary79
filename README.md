@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst • Python • SQL • Power BI • Excel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=10000&color=60A5FA&center=true&vCenter=true&width=700&lines=Turning+data+into+meaningful+insights+and+practical+solutions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=10000&color=2563EB&center=true&vCenter=true&width=700&lines=Turning+data+into+meaningful+insights+and+practical+solutions." alt="Typing SVG" />
 
 <br>
 
