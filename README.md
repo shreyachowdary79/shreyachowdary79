@@ -22,6 +22,8 @@
 
 </div>
 
+<br>
+
 # 👩‍💻 About Me
 
 I'm a **Computer Science Engineering student** with a strong interest in **Data Analytics, Python, SQL, Business Intelligence, and data-driven problem solving**.
@@ -35,7 +37,7 @@ I enjoy working with raw and unstructured data, transforming it into meaningful 
 * 🌐 Building real-world projects using **Python, APIs and web technologies**
 * 💡 Passionate about turning data into **clear insights and practical solutions**
 
----
+<br>
 
 # 💼 Internship Experience
 
@@ -61,7 +63,7 @@ During my internship at **Techvito**, I worked on practical data extraction, pro
 
 This experience strengthened my understanding of using Python for **real-world data collection, processing and automation**.
 
----
+<br>
 
 # 🚀 What I'm Working On
 
@@ -92,7 +94,7 @@ Building Python-based solutions for:
 
 Developing projects that combine **data, automation, APIs and software development** to solve practical problems.
 
----
+<br>
 
 # 🛠️ Tech Stack
 
@@ -104,17 +106,13 @@ Developing projects that combine **data, automation, APIs and software developme
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
----
-
 ## 📊 Data Analysis & Statistics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
 
 **Exploratory Data Analysis • Data Cleaning • Data Transformation • Statistical Analysis • Pattern Analysis**
-
----
 
 ## 📈 Business Intelligence & Visualization
 
@@ -123,13 +121,9 @@ Developing projects that combine **data, automation, APIs and software developme
 
 **Dashboard Development • KPI Analysis • Data Visualization • Data Storytelling • Business Intelligence • Reporting**
 
----
-
 ## 🧹 Data Preparation & ETL
 
 **Data Cleaning • Data Transformation • ETL • Data Validation • JSON • CSV • Structured Data • Semi-Structured Data**
-
----
 
 ## 🌐 Data Collection & Extraction
 
@@ -137,8 +131,6 @@ Developing projects that combine **data, automation, APIs and software developme
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge\&logo=python\&logoColor=white)
 
 **Web Scraping • HTML Parsing • REST APIs • Data Extraction • Automated Data Collection**
-
----
 
 ## ⚙️ Automation & Development
 
@@ -149,7 +141,7 @@ Developing projects that combine **data, automation, APIs and software developme
 
 **Python Automation • API Integration • Backend Development • Workflow Automation • Version Control**
 
----
+<br>
 
 # 📌 Featured Projects
 
@@ -170,8 +162,6 @@ A Python-based system designed to monitor and process court case information fro
 
 **Tech:** `Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
 
----
-
 ## 🏙️ URBIX — Urban Data & Intelligence Platform
 
 ### **Understand. Predict. Navigate.**
@@ -189,8 +179,6 @@ A data-driven platform focused on presenting and analyzing urban information to 
 
 **Tech:** `Python` `Data Analytics` `React` `TypeScript` `APIs`
 
----
-
 ## 🏥 HealthLedger
 
 A modern application focused on managing and presenting healthcare-related information through structured data and API-based communication.
@@ -205,7 +193,7 @@ A modern application focused on managing and presenting healthcare-related infor
 
 **Tech:** `Python` `FastAPI` `React` `TypeScript` `REST APIs`
 
----
+<br>
 
 # 📈 Data Analyst Skill Set
 
@@ -224,7 +212,7 @@ A modern application focused on managing and presenting healthcare-related infor
 
 </div>
 
----
+<br>
 
 # 🌱 Currently Learning
 
@@ -236,7 +224,7 @@ A modern application focused on managing and presenting healthcare-related infor
 * Machine Learning
 * Advanced Python for Data Analytics
 
----
+<br>
 
 <div align="center">
 
