@@ -1,135 +1,218 @@
 <div align="center">
 
-# **Shreya Chowdary**
+# ✦ **SHREYA CHOWDARY**
 
-### Data Analyst · Python · SQL · Power BI · Excel
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Analyzing+Data+%7C+Building+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel"/>
+### `DATA ANALYST` · `PYTHON` · `SQL` · `POWER BI` · `EXCEL`
 
 <br>
 
-<a href="https://github.com/shreyachowdary79">GitHub</a>
-  •   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •   <a href="mailto:YOUR_EMAIL">Email</a>
-
-</div>
-
----
-
-## About Me
-
-Computer Science Engineering student interested in **Data Analytics, Data Visualization and Business Intelligence**.
-
-I enjoy working with data, finding meaningful patterns, and turning them into clear insights and practical solutions.
-
----
-
-## Internship
-
-**Data & Python Intern · Techvito**
-
-Working with **Python, Web Scraping, Data Extraction, JSON and Data Processing**, gaining hands-on experience with real-world data workflows and automation.
-
----
-
-## What I Do
-
-<div align="center">
-
-| **Data Analytics** | **Python & Data** | **Visualization** |
-| :----------------: | :---------------: | :---------------: |
-|         SQL        |       Pandas      |      Power BI     |
-|    Data Cleaning   |       NumPy       |       Excel       |
-|         EDA        |    Web Scraping   |     Dashboards    |
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-Python · SQL · C · C++ · Java
-
-**Data & Analytics**
-
-Pandas · NumPy · Power BI · Excel
-
-**Development**
-
-FastAPI · React · TypeScript · REST APIs
-
-**Tools**
-
-Git · GitHub · VS Code · BeautifulSoup · Requests
-
-</div>
-
----
-
-## Selected Projects
-
-### ⚖️ Court Case Tracking & Monitoring System
-
-A Python-based system for **court case monitoring, web scraping, JSON processing and automated email notifications**.
-
-`Python` `Web Scraping` `BeautifulSoup` `JSON` `SMTP`
-
-### 🌆 URBIX
-
-An urban data platform focused on **data analysis, visualization and interactive insights**.
-
-`Python` `React` `TypeScript` `APIs`
-
-### 🏥 HealthLedger
-
-A healthcare-focused application for **structured data management and API-based communication**.
-
-`Python` `FastAPI` `React` `TypeScript`
-
----
-
-## Certifications
-
-**Microsoft Azure AI Fundamentals** · July 2025
-
-**Anthropic Claude AI Certifications**
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&hide_border=true&theme=transparent&title_color=6A5ACD&icon_color=6A5ACD&text_color=555555" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&hide_border=true&theme=transparent&title_color=6A5ACD&text_color=555555" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-### **Let's Connect**
-
-<a href="https://github.com/shreyachowdary79">GitHub</a>
-  •   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •   <a href="mailto:YOUR_EMAIL">Email</a>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+Data+into+Meaningful+Insights;Explore+%E2%80%A2+Analyze+%E2%80%A2+Visualize+%E2%80%A2+Solve;Building+Practical+Data-Driven+Solutions"/>
 
 <br><br>
 
-*Turning Data into Meaningful Insights.*
+`📊 DATA ANALYTICS`    `🐍 PYTHON`    `🗄️ SQL`    `📈 BUSINESS INTELLIGENCE`
+
+</div>
+
+---
+
+## 01 · ABOUT ME
+
+> **Computer Science Engineering student** with a strong interest in **Data Analytics, Data Visualization and Business Intelligence**.
+
+I enjoy exploring data, identifying patterns and turning complex information into **clear, meaningful insights**.
+
+Currently building my skills across **Python · SQL · Power BI · Excel** while working on practical projects and real-world data problems.
+
+---
+
+## 02 · EXPERIENCE
+
+### **Data & Python Intern · Techvito**
+
+**Hands-on experience in real-world data workflows**
+
+`Python` · `Web Scraping` · `Data Extraction` · `JSON` · `Data Processing` · `Automation`
+
+> Working with structured and semi-structured data while developing practical Python-based solutions.
+
+---
+
+## 03 · WHAT I WORK WITH
+
+<div align="center">
+
+| 📊 **ANALYZE** | 🐍 **BUILD** |  📈 **VISUALIZE**  |
+| :------------: | :----------: | :----------------: |
+|       SQL      |    Python    |      Power BI      |
+|  Data Cleaning |    Pandas    |        Excel       |
+|       EDA      |     NumPy    |     Dashboards     |
+|  Data Analysis | Web Scraping | Data Visualization |
+
+</div>
+
+---
+
+## 04 · TECH STACK
+
+<div align="center">
+
+### Languages & Data
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+
+<br>
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,typescript,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-6A5ACD?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-6A5ACD?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 05 · SELECTED WORK
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚖️ Court Case Tracking
+
+A Python-based monitoring system that tracks court cases through **web scraping, structured data processing and automated email notifications**.
+
+**Stack**
+
+`Python` `Requests` `BeautifulSoup` `JSON` `SMTP`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌆 URBIX
+
+**Urban Data & Intelligence Platform**
+
+A data-driven platform focused on **urban information, analysis and interactive visualization**.
+
+**Stack**
+
+`Python` `React` `TypeScript` `APIs`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 HealthLedger
+
+A healthcare-focused application designed around **structured data management and API communication**.
+
+**Stack**
+
+`Python` `FastAPI` `React` `TypeScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📌 Currently Exploring
+
+`Advanced SQL`
+`Power BI`
+`Data Visualization`
+`Business Intelligence`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 06 · CERTIFICATIONS
+
+<div align="center">
+
+**☁️ Microsoft Azure AI Fundamentals**
+*July 2025*
+
+**🤖 Anthropic · Claude AI Certifications**
+
+</div>
+
+---
+
+## 07 · GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=555555" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=555555" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyachowdary79&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" height="170"/>
+
+</div>
+
+---
+
+## 08 · CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## LET'S CONNECT
+
+<br>
+
+<a href="https://github.com/shreyachowdary79">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Analyze · Visualize · Build · Grow**
+
+<br>
+
+<sub>Thanks for stopping by ✦</sub>
 
 </div>
