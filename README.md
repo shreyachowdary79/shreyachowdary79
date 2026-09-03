@@ -6,13 +6,6 @@
 
 **Turning data into meaningful insights and practical solutions.**
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shreyachowdary79\&style=for-the-badge)
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
@@ -150,46 +143,15 @@ A modern application focused on organizing and managing healthcare-related infor
 
 ---
 
-## 🏆 Certification
-
-### **Microsoft Azure AI Fundamentals**
-
-📅 **July 2025**
-
-Foundational certification covering **Artificial Intelligence concepts and Microsoft Azure AI services**.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me
