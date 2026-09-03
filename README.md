@@ -1,10 +1,34 @@
+<!-- ===================== HERO SECTION ===================== -->
+
 <div align="center">
 
-# Hi, I'm Shreya Chowdary 👋
+# 👋 Hi, I'm **Shreya Chowdary**
 
-### Data Analytics Enthusiast | CSE Student | Python • SQL • Power BI • Excel
+### 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Web+Scraping+%7C+JSON+%7C+Data+Analysis;Collecting+Data+→+Cleaning+Data+→+Finding+Insights" />
+**Turning raw data into meaningful insights.**
+
+<br>
+
+<a href="https://github.com/shreyachowdary79">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Professional-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Analyze • Visualize • Discover • Solve**
 
 </div>
 
