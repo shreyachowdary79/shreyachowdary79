@@ -137,15 +137,7 @@ Application focused on **structured healthcare data management and API communica
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&hide_border=true&theme=transparent&title_color=6A5ACD&icon_color=6A5ACD" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&hide_border=true&theme=transparent&title_color=6A5ACD" height="165"/>
-
-</div>
 
 ---
 
