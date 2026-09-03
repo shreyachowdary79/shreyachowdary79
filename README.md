@@ -121,9 +121,6 @@ Developing projects that combine **data, automation, APIs and software developme
 
 **Dashboard Development • KPI Analysis • Data Visualization • Data Storytelling • Business Intelligence • Reporting**
 
-## 🧹 Data Preparation & ETL
-
-**Data Cleaning • Data Transformation • ETL • Data Validation • JSON • CSV • Structured Data • Semi-Structured Data**
 
 ## 🌐 Data Collection & Extraction
 
