@@ -57,12 +57,6 @@ During my internship at **Techvito**, I worked on practical data extraction, pro
 * Worked with real-world web data workflows
 * Converted raw information into **structured and usable formats**
 
-### 🔄 Internship Workflow
-
-**Web Sources → Data Extraction → Processing → Structuring → Automation → Usable Information**
-
-This experience strengthened my understanding of using Python for **real-world data collection, processing and automation**.
-
 <br>
 
 # 🚀 What I'm Working On
