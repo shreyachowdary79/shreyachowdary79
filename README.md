@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm **Shreya Chowdary**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Shreya%20Chowdary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### 📊 Data Analyst | Python | SQL | Power BI | Excel
+### Data Analyst • Python • SQL • Power BI • Excel
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Python+%7C+SQL;Turning+Data+into+Meaningful+Insights;Analyze+%7C+Visualize+%7C+Discover+%7C+Solve"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Turning+Data+into+Meaningful+Insights;Data+Analytics+%7C+Python+%7C+SQL;Analyze+%7C+Visualize+%7C+Discover"/>
 
 <br>
 
@@ -20,109 +20,130 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-* 🎓 Computer Science Engineering student
-* 📊 Interested in **Data Analytics, Data Visualization & Business Intelligence**
-* 🐍 Enjoy working with **Python, SQL, Power BI & Excel**
-* 🌐 Interested in **Web Scraping & Data Extraction**
-* 💡 Love turning raw data into meaningful insights
-* 🚀 Passionate about learning and building practical solutions
+I'm a **Computer Science Engineering student** passionate about **Data Analytics, Data Visualization and Business Intelligence**.
+
+I enjoy transforming raw data into meaningful insights using **Python, SQL, Power BI and Excel**, while building practical solutions to real-world problems.
 
 ---
 
-## 💼 Internship Experience
+## 💼 Internship
 
-### 🏢 Techvito — Data & Python Intern
+### **Data & Python Intern — Techvito**
 
-Currently gaining hands-on experience in:
-
-* 🐍 Python
-* 🌐 Web Scraping
-* 📥 Data Extraction
-* 🗂️ JSON & Data Processing
-* ⚙️ Automation
-* 📊 Real-world data workflows
-
-**Web → Extract → Process → Structure → Analyze**
+Hands-on experience with **Python, Web Scraping, Data Extraction, JSON, Data Processing and Automation**, working with real-world data workflows.
 
 ---
 
-## 🚀 What I'm Working On
+## ✦ What I Do
 
-* 📊 Exploring → **Data Analytics & Business Intelligence**
-* 🐍 Building → **Python-based data solutions**
-* 📈 Learning → **Power BI & Advanced SQL**
-* 🌐 Working → **Web Scraping & Data Extraction**
-* 💡 Improving → **Analytical & Problem-Solving Skills**
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Analytics
+
+SQL
+Data Cleaning
+EDA
+Data Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+### 🐍 Python
+
+Pandas
+NumPy
+Web Scraping
+Automation
+
+</td>
+
+<td width="33%" align="center">
+
+### 📈 Visualization
+
+Power BI
+Excel
+Dashboards
+Data Visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode,react,typescript" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### ⚖️ Court Case Tracking & Monitoring System
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Python-based system for tracking court cases using web scraping, JSON data, and automated notifications.
+### ⚖️ Court Case Tracker
 
-`Python` `BeautifulSoup` `Web Scraping` `JSON` `SMTP`
+Python-based system for monitoring court cases with **web scraping, JSON processing and automated email notifications**.
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🌆 URBIX
 
-Urban data and intelligence platform focused on **data analysis, visualization, and interactive insights**.
+Urban data platform focused on **data analysis, visualization and interactive insights**.
 
-`Python` `React` `TypeScript` `APIs`
+</td>
+
+<td width="33%" valign="top">
 
 ### 🏥 HealthLedger
 
-Application focused on structured healthcare data management and API-based communication.
+Application focused on **structured healthcare data management and API communication**.
 
-`Python` `FastAPI` `React` `TypeScript`
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Certifications
 
-* ☁️ **Microsoft Azure AI Fundamentals** — July 2025
-* 🤖 **Anthropic Claude AI Certifications**
+**Microsoft Azure AI Fundamentals**
+*July 2025*
 
-  * Claude AI / Anthropic Fundamentals
-  * Claude AI Skills & Applications
+**Anthropic Claude AI Certifications**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&hide_border=true&theme=transparent&title_color=6A5ACD&icon_color=6A5ACD" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&hide_border=true&theme=transparent&title_color=6A5ACD" height="165"/>
 
 </div>
 
@@ -132,15 +153,15 @@ Application focused on structured healthcare data management and API-based commu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
+
+## Let's Connect
 
 <a href="https://github.com/shreyachowdary79">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -156,10 +177,6 @@ Application focused on structured healthcare data management and API-based commu
 
 <br><br>
 
-**Building • Learning • Analyzing • Improving**
-
-<br>
-
-⭐ *Thanks for visiting my profile!*
+**Turning Data into Meaningful Insights.**
 
 </div>
