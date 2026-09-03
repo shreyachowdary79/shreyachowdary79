@@ -1,6 +1,9 @@
 <!-- ========================================================= -->
+
 <!--                    SHREYA CHOWDARY                        -->
+
 <!--                  GITHUB PROFILE README                    -->
+
 <!-- ========================================================= -->
 
 <div align="center">
@@ -42,7 +45,9 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                       ABOUT ME                             -->
+
 <!-- ========================================================= -->
 
 ## 👩‍💻 About Me
@@ -51,21 +56,19 @@ Hi, I'm **Shreya Chowdary**, a Computer Science Engineering student with a stron
 
 I enjoy transforming raw and unstructured data into meaningful information that can support better decisions.
 
-I'm currently gaining practical industry experience through my internship at **Techvito**, where I work with **Python, Web Scraping, JSON, Data Extraction, and data processing**.
-
 I am particularly interested in combining **technical skills with analytical thinking** to solve real-world problems.
 
 ### 🎯 What I Do
 
-- 📊 Analyze and interpret datasets
-- 🐍 Work with **Python** for data processing and analysis
-- 🗄️ Query and manage data using **SQL**
-- 📈 Build dashboards and visualizations using **Power BI**
-- 📑 Perform analysis and reporting using **Excel**
-- 🌐 Extract data using **Web Scraping**
-- 🔍 Explore datasets using **Pandas & NumPy**
-- 🔄 Work with structured data and **JSON**
-- 💡 Convert raw data into actionable insights
+* 📊 Analyze and interpret datasets
+* 🐍 Work with **Python** for data processing and analysis
+* 🗄️ Query and manage data using **SQL**
+* 📈 Build dashboards and visualizations using **Power BI**
+* 📑 Perform analysis and reporting using **Excel**
+* 🌐 Extract data using **Web Scraping**
+* 🔍 Explore datasets using **Pandas & NumPy**
+* 🔄 Work with structured data and **JSON**
+* 💡 Convert raw data into actionable insights
 
 ### 🚀 Career Focus
 
@@ -74,7 +77,43 @@ I am particularly interested in combining **technical skills with analytical thi
 ---
 
 <!-- ========================================================= -->
+
+<!--                  INTERNSHIP EXPERIENCE                     -->
+
+<!-- ========================================================= -->
+
+## 💼 Internship Experience
+
+### 🏢 Techvito
+
+**Data & Python Intern**
+
+I am gaining practical industry experience working with **Python, Web Scraping, Data Extraction, JSON, and data processing**.
+
+### 🔹 Responsibilities & Learning
+
+* 🐍 Python programming
+* 🌐 Web scraping
+* 📥 Data extraction
+* 🗂️ JSON data processing
+* 🔄 Working with structured and semi-structured data
+* ⚙️ Building automation-oriented scripts
+* 📊 Understanding real-world data workflows
+
+### 🔹 Key Experience
+
+Working with real-world data workflows involving:
+
+**Web Sources → Data Extraction → Processing → Structured Data → Automation**
+
+This internship has helped me strengthen my practical Python skills and understand how data is collected, processed, and transformed into useful information.
+
+---
+
+<!-- ========================================================= -->
+
 <!--                       TECH STACK                           -->
+
 <!-- ========================================================= -->
 
 ## 🛠️ Tech Stack
@@ -124,7 +163,142 @@ I am particularly interested in combining **technical skills with analytical thi
 ---
 
 <!-- ========================================================= -->
+
+<!--                    FEATURED PROJECTS                        -->
+
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+### ⚖️ Court Case Tracking & Monitoring System
+
+A Python-based system designed to monitor court case information and track case status through publicly available court data.
+
+**Key Features**
+
+* 🔎 Case number based tracking
+* 🌐 Web scraping and data extraction
+* 📋 Court display board monitoring
+* 📊 JSON-based case management
+* 🔔 Automated email notifications
+* ⏱️ Periodic case status checking
+
+**Tech Stack**
+
+`Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
+
+<br>
+
+---
+
+### 🌆 URBIX — Urban Data & Intelligence Platform
+
+A data-driven platform focused on understanding urban conditions and presenting information in a meaningful and interactive way.
+
+**Key Focus**
+
+* 📊 Data-driven insights
+* 🗺️ Interactive visualization
+* 🌧️ Urban/environmental information
+* 📈 Data analysis and presentation
+* 💡 Decision-support oriented design
+
+**Tech Stack**
+
+`Python` `Data Analytics` `React` `TypeScript` `APIs`
+
+<br>
+
+---
+
+### 🏥 HealthLedger
+
+A technology-based project focused on organizing and managing healthcare-related information through a modern application architecture.
+
+**Key Focus**
+
+* 📋 Structured data management
+* 🔐 Secure information handling
+* 📊 Data organization
+* 🔄 API-based communication
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `TypeScript` `APIs`
+
+---
+
+<!-- ========================================================= -->
+
+<!--                   CURRENTLY LEARNING                       -->
+
+<!-- ========================================================= -->
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
+
+</p>
+
+I'm continuously improving my skills in:
+
+* Advanced SQL
+* Data Cleaning
+* Exploratory Data Analysis
+* Power BI Dashboards
+* Data Visualization
+* Business Intelligence
+* Analytical Problem Solving
+
+---
+
+<!-- ========================================================= -->
+
+<!--                     CERTIFICATIONS                         -->
+
+<!-- ========================================================= -->
+
+## 🏆 Certifications & Achievements
+
+### ☁️ Microsoft Azure AI Fundamentals
+
+**Microsoft Azure AI Fundamentals — July 2025**
+
+Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azure AI services.
+
+---
+
+<!-- ========================================================= -->
+
+<!--                        SKILLS                              -->
+
+<!-- ========================================================= -->
+
+## 💡 Core Skills
+
+| Category            | Skills                                |
+| ------------------- | ------------------------------------- |
+| **Programming**     | Python, C, C++, Java                  |
+| **Data Analytics**  | Pandas, NumPy, Data Cleaning, EDA     |
+| **Database**        | SQL                                   |
+| **Visualization**   | Power BI, Excel                       |
+| **Data Extraction** | Web Scraping, BeautifulSoup, Requests |
+| **Data Formats**    | JSON, CSV                             |
+| **Development**     | FastAPI, REST APIs                    |
+| **Tools**           | Git, GitHub, VS Code                  |
+
+---
+
+<!-- ========================================================= -->
+
 <!--                    GITHUB STATISTICS                       -->
+
 <!-- ========================================================= -->
 
 ## 📈 GitHub Statistics
@@ -150,7 +324,9 @@ I am particularly interested in combining **technical skills with analytical thi
 ---
 
 <!-- ========================================================= -->
+
 <!--                 CONTRIBUTION GRAPH                         -->
+
 <!-- ========================================================= -->
 
 ## 🐍 My Contribution Graph
@@ -164,158 +340,9 @@ I am particularly interested in combining **technical skills with analytical thi
 ---
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
 
-## 🚀 Featured Projects
+<!--                     GITHUB ACTIVITY                        -->
 
-### ⚖️ Court Case Tracking & Monitoring System
-
-A Python-based system designed to monitor court case information and track case status through publicly available court data.
-
-**Key Features**
-
-- 🔎 Case number based tracking
-- 🌐 Web scraping and data extraction
-- 📋 Court display board monitoring
-- 📊 JSON-based case management
-- 🔔 Automated email notifications
-- ⏱️ Periodic case status checking
-
-**Tech Stack**
-
-`Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
-
-<br>
-
----
-
-### 🌆 URBIX — Urban Data & Intelligence Platform
-
-A data-driven platform focused on understanding urban conditions and presenting information in a meaningful and interactive way.
-
-**Key Focus**
-
-- 📊 Data-driven insights
-- 🗺️ Interactive visualization
-- 🌧️ Urban/environmental information
-- 📈 Data analysis and presentation
-- 💡 Decision-support oriented design
-
-**Tech Stack**
-
-`Python` `Data Analytics` `React` `TypeScript` `APIs`
-
-<br>
-
----
-
-### 🏥 HealthLedger
-
-A technology-based project focused on organizing and managing healthcare-related information through a modern application architecture.
-
-**Key Focus**
-
-- 📋 Structured data management
-- 🔐 Secure information handling
-- 📊 Data organization
-- 🔄 API-based communication
-
-**Tech Stack**
-
-`Python` `FastAPI` `React` `TypeScript` `APIs`
-
----
-
-<!-- ========================================================= -->
-<!--                  INTERNSHIP EXPERIENCE                     -->
-<!-- ========================================================= -->
-
-## 💼 Internship Experience
-
-### 🏢 Techvito
-
-**Data & Python Intern**
-
-During my internship, I have been gaining practical experience in working with data extraction and automation.
-
-### 🔹 Responsibilities & Learning
-
-- 🐍 Python programming
-- 🌐 Web scraping
-- 📥 Data extraction
-- 🗂️ JSON data processing
-- 🔄 Working with structured and semi-structured data
-- ⚙️ Building automation-oriented scripts
-- 📊 Understanding real-world data workflows
-
-This experience has helped me understand how data moves from **web sources → extraction → processing → structured information**.
-
----
-
-<!-- ========================================================= -->
-<!--                   CURRENTLY LEARNING                       -->
-<!-- ========================================================= -->
-
-## 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
-
-</p>
-
-I'm continuously improving my skills in:
-
-- Advanced SQL
-- Data Cleaning
-- Exploratory Data Analysis
-- Power BI Dashboards
-- Data Visualization
-- Business Intelligence
-- Analytical Problem Solving
-
----
-
-<!-- ========================================================= -->
-<!--                     CERTIFICATIONS                         -->
-<!-- ========================================================= -->
-
-## 🏆 Certifications & Achievements
-
-### ☁️ Microsoft Azure AI Fundamentals
-
-**Microsoft Azure AI Fundamentals — July 2025**
-
-Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azure AI services.
-
----
-
-<!-- ========================================================= -->
-<!--                        SKILLS                              -->
-<!-- ========================================================= -->
-
-## 💡 Core Skills
-
-| Category | Skills |
-|----------|--------|
-| **Programming** | Python, C, C++, Java |
-| **Data Analytics** | Pandas, NumPy, Data Cleaning, EDA |
-| **Database** | SQL |
-| **Visualization** | Power BI, Excel |
-| **Data Extraction** | Web Scraping, BeautifulSoup, Requests |
-| **Data Formats** | JSON, CSV |
-| **Development** | FastAPI, REST APIs |
-| **Tools** | Git, GitHub, VS Code |
-
----
-
-<!-- ========================================================= -->
-<!--                     GITHUB PROFILE                         -->
 <!-- ========================================================= -->
 
 ## 📌 GitHub Activity
@@ -339,7 +366,9 @@ Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azu
 ---
 
 <!-- ========================================================= -->
+
 <!--                       CONTACT                              -->
+
 <!-- ========================================================= -->
 
 ## 📬 Let's Connect
@@ -363,7 +392,9 @@ Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azu
 ---
 
 <!-- ========================================================= -->
+
 <!--                       FOOTER                               -->
+
 <!-- ========================================================= -->
 
 <div align="center">
