@@ -1,96 +1,54 @@
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                    SHREYA CHOWDARY                           │
-│                                                              │
-│              DATA ANALYST  ·  PYTHON  ·  SQL                 │
-│                                                              │
-│       Turning raw data into insights that matter.             │
-│                                                              │
-│        [ LinkedIn ]   [ GitHub ]   [ Email ]                 │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-ABOUT
-───────────────────────────────────────────────────────────────
+<div align="center">
 
-I'm a CSE student passionate about Data Analytics,
-automation and building systems that turn complex data
-into useful information.
+# SHREYA CHOWDARY
 
-Currently working as a Python / Data Intern at Techvito.
+### `DATA ANALYST` · `PYTHON` · `SQL` · `POWER BI` · `EXCEL`
 
-┌──────────────────────┐   ┌──────────────────────┐
-│  INTERNSHIP          │   │  DATA ANALYTICS      │
-│  Techvito            │   │  Python · SQL        │
-│  Python / Data       │   │  Power BI · Excel    │
-└──────────────────────┘   └──────────────────────┘
+Turning **raw data into meaningful insights.**
 
+<br/>
 
-FEATURED PROJECTS
-───────────────────────────────────────────────────────────────
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shreyachowdary79">
+  <img src="https://img.shields.io/badge/GitHub-Explore-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-01  COURT CASE TRACKER
-    Automated court case monitoring & notification system
+<br/><br/>
 
-    Python · Web Scraping · BeautifulSoup · JSON · SMTP
+<img src="https://komarev.com/ghpvc/?username=shreyachowdary79&label=PROFILE+VIEWS&color=000000&style=flat-square"/>
 
-02  URBIX
-    Urban intelligence platform for understanding city data
+</div>
 
-    Python · React · TypeScript · APIs · Data Analytics
+<br/>
 
-03  HEALTHLEDGER
-    Healthcare data management platform
+---
 
-    Python · FastAPI · React · TypeScript · REST API
+## ✦ ABOUT ME
 
+I'm **Shreya**, a Computer Science Engineering student with a strong interest in **Data Analytics, Python, SQL and Business Intelligence**.
 
-TECH STACK
-───────────────────────────────────────────────────────────────
+I enjoy working with data from the point where it is collected and cleaned to the point where it becomes a useful insight.
 
-LANGUAGES
-Python   SQL   Java   C++   C
-
+```text
 DATA
-Pandas   NumPy   Excel   Power BI
-
-DATA COLLECTION
-Requests   BeautifulSoup   Web Scraping   JSON   REST APIs
-
-TOOLS
-Git   GitHub   VS Code
-
-
-CERTIFICATION
-───────────────────────────────────────────────────────────────
-
-Microsoft Azure AI Fundamentals
-July 2025
-
-
-CURRENTLY LEARNING
-───────────────────────────────────────────────────────────────
-
-Advanced SQL  ·  Data Cleaning  ·  EDA
-Power BI       ·  Data Visualization  ·  Business Intelligence
-
-
-GITHUB
-───────────────────────────────────────────────────────────────
-
-              GitHub Statistics
-
-        [ STATS ]       [ STREAK ]
-
-
-LET'S CONNECT
-───────────────────────────────────────────────────────────────
-
-LinkedIn  ·  GitHub  ·  Email
-
-
-                    ✦ ✦ ✦
-
-              CONTRIBUTION GRAPH
-
-                 ░▒▓████▓▒░
+  ↓
+COLLECT
+  ↓
+CLEAN
+  ↓
+ANALYZE
+  ↓
+VISUALIZE
+  ↓
+INSIGHT
