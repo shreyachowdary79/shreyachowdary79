@@ -24,8 +24,6 @@
 
 **Analyze • Visualize • Discover • Solve**
 
-</div>
-
 ---
 
 # 👩‍💻 About Me
