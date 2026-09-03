@@ -1,139 +1,172 @@
-<!-- ========================================================= -->
-<!--                    SHREYA CHOWDARY                        -->
-<!--                  GITHUB PROFILE README                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm **Shreya Chowdary**
 
-### 📊 Data Analyst | Python | SQL | Power BI | Excel
+### 📊 Data Analyst • Python • SQL • Power BI • Excel
 
-**Turning raw data into meaningful insights.**
-
-<br>
-
-<a href="https://github.com/shreyachowdary79">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-</div>
+**Turning data into meaningful insights and practical solutions.**
 
 <br>
 
-<div align="center">
-
-> **Analyze • Visualize • Discover • Solve**
+![Profile Views](https://komarev.com/ghpvc/?username=shreyachowdary79\&style=for-the-badge)
 
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                             -->
-<!-- ========================================================= -->
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Shreya Chowdary**, a Computer Science Engineering student with a strong interest in **Data Analytics, Data Visualization, and data-driven problem solving**.
-
-I enjoy transforming raw and unstructured data into meaningful information that can support better decisions.
-
-I'm currently gaining practical industry experience through my internship at **Techvito**, where I work with **Python, Web Scraping, JSON, Data Extraction, and data processing**.
-
-I am particularly interested in combining **technical skills with analytical thinking** to solve real-world problems.
-
-### 🎯 What I Do
-
-- 📊 Analyze and interpret datasets
-- 🐍 Work with **Python** for data processing and analysis
-- 🗄️ Query and manage data using **SQL**
-- 📈 Build dashboards and visualizations using **Power BI**
-- 📑 Perform analysis and reporting using **Excel**
-- 🌐 Extract data using **Web Scraping**
-- 🔍 Explore datasets using **Pandas & NumPy**
-- 🔄 Work with structured data and **JSON**
-- 💡 Convert raw data into actionable insights
-
-### 🚀 Career Focus
-
-**Data Analytics • Business Intelligence • Data Visualization • Python • SQL**
+* 🎓 **Computer Science Engineering** student at **Dayananda Sagar University, Bangalore**
+* 📊 Interested in **Data Analytics, Data Visualization, and Business Intelligence**
+* 🐍 Passionate about using **Python and SQL** to work with real-world data
+* 📈 Enjoy transforming raw and unstructured data into **meaningful insights**
+* 🔎 Interested in **Web Scraping, Data Extraction, Data Cleaning, and Automation**
+* 🚀 Building practical projects that combine **data, automation, and software development**
+* 🌱 Currently strengthening my skills in **Advanced SQL, Power BI, Data Analytics, and BI**
+* 💡 Always learning, experimenting, and building
 
 ---
 
-<!-- ========================================================= -->
-<!--                       TECH STACK                           -->
-<!-- ========================================================= -->
+## 💼 Internship Experience
+
+### **Data & Python Intern — Techvito**
+
+During my internship at **Techvito**, I worked on practical Python-based data extraction and automation tasks involving real-world web data.
+
+**What I worked on:**
+
+* 🐍 Developed **Python scripts** for data extraction and automation
+* 🌐 Worked with **Web Scraping** to collect information from web sources
+* 📥 Extracted and processed **structured and semi-structured data**
+* 🔄 Worked extensively with **JSON data and data transformation**
+* 🧹 Processed and organized extracted information into structured formats
+* ⚙️ Built automation workflows for repetitive data-related tasks
+* 🔎 Worked with **Requests and BeautifulSoup** for web-based data extraction
+* 📊 Focused on converting raw extracted information into **clean and usable data**
+* 🧠 Gained practical experience in handling **real-world data workflows**
+* 🛠️ Worked with Python-based tools and scripts to improve the efficiency of data collection and processing
+
+### **Internship Workflow**
+
+**Web Sources → Data Extraction → Processing → Structuring → Automation → Usable Information**
+
+---
+
+## 🚀 What I'm Working On
+
+* 📊 **Exploring** → Advanced Data Analytics & Business Intelligence
+* 🧮 **Improving** → SQL, Data Cleaning & Exploratory Data Analysis
+* 📈 **Building** → Power BI dashboards and data visualizations
+* 🐍 **Developing** → Python-based data extraction and automation projects
+* 🌐 **Exploring** → APIs, Web Scraping & real-world datasets
+* 💡 **Learning** → Better ways to turn data into actionable insights
+
+---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics & Visualization
+### **Programming & Data**
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+### **Data Analytics & Visualization**
 
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
-### 🐍 Python & Data Libraries
+### **Data Extraction & Backend**
 
-<p align="center">
+![Requests](https://img.shields.io/badge/Requests-2C3E50?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Requests-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+### **Tools**
 
-</p>
-
-### 🌐 Data Extraction & Processing
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-Data%20Handling-000000?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-Data%20Integration-FF6F00?style=for-the-badge"/>
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-<!-- ========================================================= -->
-<!--                    GITHUB STATISTICS                       -->
-<!-- ========================================================= -->
+## 🚀 Featured Projects
 
-## 📈 GitHub Statistics
+### ⚖️ Court Case Tracking & Monitoring System
+
+A Python-based system designed to monitor court case information and provide automated status tracking.
+
+**Key Features:**
+
+* 🔎 Case number tracking
+* 🌐 Web scraping and data extraction
+* 🏛️ Court display board monitoring
+* 📋 Cause-list data processing
+* 📄 JSON-based case management
+* ⏱️ Periodic case status checking
+* 📧 Automated email notifications
+* 🔄 Status-change based alert system
+
+**Tech:** `Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
+
+---
+
+### 🌆 URBIX — Urban Data & Intelligence Platform
+
+**Understand. Predict. Navigate.**
+
+A data-driven platform focused on transforming urban information into useful insights for better understanding and decision-making.
+
+**Focus Areas:**
+
+* 📊 Urban data analysis
+* 🗺️ Interactive visualization
+* 🌧️ Environmental and weather information
+* 📈 Data-driven insights
+* 🧭 Decision support
+
+**Tech:** `Python` `React` `TypeScript` `APIs` `Data Analytics`
+
+---
+
+### 🏥 HealthLedger
+
+A modern application focused on organizing and managing healthcare-related information through structured data and API-driven architecture.
+
+**Focus Areas:**
+
+* 📋 Structured information management
+* 🔐 Secure handling of information
+* 🔄 API communication
+* 🧩 Modern frontend-backend architecture
+
+**Tech:** `Python` `FastAPI` `React` `TypeScript` `REST APIs`
+
+---
+
+## 🏆 Certification
+
+### **Microsoft Azure AI Fundamentals**
+
+📅 **July 2025**
+
+Foundational certification covering **Artificial Intelligence concepts and Microsoft Azure AI services**.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </div>
 
@@ -143,241 +176,46 @@ I am particularly interested in combining **technical skills with analytical thi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=tokyonight&hide_border=true">
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION GRAPH                         -->
-<!-- ========================================================= -->
-
-## 🐍 My Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
-## 🚀 Featured Projects
-
-### ⚖️ Court Case Tracking & Monitoring System
-
-A Python-based system designed to monitor court case information and track case status through publicly available court data.
-
-**Key Features**
-
-- 🔎 Case number based tracking
-- 🌐 Web scraping and data extraction
-- 📋 Court display board monitoring
-- 📊 JSON-based case management
-- 🔔 Automated email notifications
-- ⏱️ Periodic case status checking
-
-**Tech Stack**
-
-`Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
-
-<br>
-
----
-
-### 🌆 URBIX — Urban Data & Intelligence Platform
-
-A data-driven platform focused on understanding urban conditions and presenting information in a meaningful and interactive way.
-
-**Key Focus**
-
-- 📊 Data-driven insights
-- 🗺️ Interactive visualization
-- 🌧️ Urban/environmental information
-- 📈 Data analysis and presentation
-- 💡 Decision-support oriented design
-
-**Tech Stack**
-
-`Python` `Data Analytics` `React` `TypeScript` `APIs`
-
-<br>
-
----
-
-### 🏥 HealthLedger
-
-A technology-based project focused on organizing and managing healthcare-related information through a modern application architecture.
-
-**Key Focus**
-
-- 📋 Structured data management
-- 🔐 Secure information handling
-- 📊 Data organization
-- 🔄 API-based communication
-
-**Tech Stack**
-
-`Python` `FastAPI` `React` `TypeScript` `APIs`
-
----
-
-<!-- ========================================================= -->
-<!--                  INTERNSHIP EXPERIENCE                     -->
-<!-- ========================================================= -->
-
-## 💼 Internship Experience
-
-### 🏢 Techvito
-
-**Data & Python Intern**
-
-During my internship, I have been gaining practical experience in working with data extraction and automation.
-
-### 🔹 Responsibilities & Learning
-
-- 🐍 Python programming
-- 🌐 Web scraping
-- 📥 Data extraction
-- 🗂️ JSON data processing
-- 🔄 Working with structured and semi-structured data
-- ⚙️ Building automation-oriented scripts
-- 📊 Understanding real-world data workflows
-
-This experience has helped me understand how data moves from **web sources → extraction → processing → structured information**.
-
----
-
-<!-- ========================================================= -->
-<!--                   CURRENTLY LEARNING                       -->
-<!-- ========================================================= -->
-
-## 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
-
-</p>
-
-I'm continuously improving my skills in:
-
-- Advanced SQL
-- Data Cleaning
-- Exploratory Data Analysis
-- Power BI Dashboards
-- Data Visualization
-- Business Intelligence
-- Analytical Problem Solving
-
----
-
-<!-- ========================================================= -->
-<!--                     CERTIFICATIONS                         -->
-<!-- ========================================================= -->
-
-## 🏆 Certifications & Achievements
-
-### ☁️ Microsoft Azure AI Fundamentals
-
-**Microsoft Azure AI Fundamentals — July 2025**
-
-Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azure AI services.
-
----
-
-<!-- ========================================================= -->
-<!--                        SKILLS                              -->
-<!-- ========================================================= -->
-
-## 💡 Core Skills
-
-| Category | Skills |
-|----------|--------|
-| **Programming** | Python, C, C++, Java |
-| **Data Analytics** | Pandas, NumPy, Data Cleaning, EDA |
-| **Database** | SQL |
-| **Visualization** | Power BI, Excel |
-| **Data Extraction** | Web Scraping, BeautifulSoup, Requests |
-| **Data Formats** | JSON, CSV |
-| **Development** | FastAPI, REST APIs |
-| **Tools** | Git, GitHub, VS Code |
-
----
-
-<!-- ========================================================= -->
-<!--                     GITHUB PROFILE                         -->
-<!-- ========================================================= -->
-
-## 📌 GitHub Activity
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/shreyachowdary79">
-<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Building • Learning • Analyzing • Improving**
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                       CONTACT                              -->
-<!-- ========================================================= -->
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/shreyachowdary79">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       FOOTER                               -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### **Analyze • Visualize • Build • Learn**
 
-**If you find my projects interesting, feel free to explore my repositories and connect with me.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=shreyachowdary79&style=for-the-badge&color=blue" alt="Profile Views"/>
-
-<br><br>
-
-**© 2026 Shreya Chowdary**
+⭐ Thanks for visiting my profile!
 
 </div>
