@@ -72,7 +72,6 @@ Exploring ways to transform raw datasets into meaningful insights through:
 * KPI Analysis
 * Dashboard Development
 * Business Intelligence
-* Data Storytelling
 
 ### 🐍 Python & Automation
 
