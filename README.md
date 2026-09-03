@@ -1,32 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm **Shreya Chowdary**
-
-### 📊 Data Analyst | Python | SQL | Power BI | Excel
-
-**Turning raw data into meaningful insights.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Shreya%20Chowdary&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=60&descSize=18"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Meaningful+Insights;Analyze+%E2%80%A2+Visualize+%E2%80%A2+Discover+%E2%80%A2+Solve;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Solutions"/>
+
+<br><br>
+
 <a href="https://github.com/shreyachowdary79">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shreyachowdary79&style=for-the-badge&color=334155&label=PROFILE+VIEWS"/>
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
-> **Analyze • Visualize • Discover • Solve**
+## 📊 DATA • INSIGHTS • DECISIONS
+
+**I turn messy data into clean information, meaningful patterns, and actionable insights.**
 
 </div>
 
@@ -36,15 +42,13 @@
 
 Hi, I'm **Shreya Chowdary**, a Computer Science Engineering student passionate about **Data Analytics, Data Visualization, and data-driven problem solving**.
 
-I enjoy working with data to discover patterns, extract useful information, and transform raw data into meaningful insights.
+I enjoy exploring data, identifying patterns, building visualizations, and transforming raw information into insights that can support better decisions.
 
-My current experience combines **Python, SQL, Power BI, Excel, Web Scraping, JSON and data processing**.
+Currently, I'm developing my skills across the complete analytics workflow:
 
-I'm particularly interested in building practical solutions that connect:
+**🌐 Data Collection → 🧹 Data Cleaning → 🔄 Data Processing → 🔍 Analysis → 📊 Visualization → 💡 Insights**
 
-**Data Collection → Data Processing → Analysis → Visualization → Insights**
-
-### 🎯 My Focus
+### 🎯 What I Focus On
 
 - 📊 Data Analytics
 - 🐍 Python for Data Analysis
@@ -52,20 +56,24 @@ I'm particularly interested in building practical solutions that connect:
 - 📈 Power BI Dashboards
 - 📑 Excel Analytics
 - 🌐 Web Scraping & Data Extraction
-- 🔍 Data Cleaning & Exploration
+- 🧹 Data Cleaning & Exploration
 - 💡 Data-driven Problem Solving
 
 ---
 
 # 💼 Internship Experience
 
-## 🏢 Techvito
+<div align="center">
+
+## 🏢 TECHVITO
 
 ### **Python / Data Intern**
 
-During my internship at **Techvito**, I have been gaining practical experience working with Python-based data extraction, processing and automation tasks.
+</div>
 
-### 🔹 What I've Worked With
+During my internship at **Techvito**, I have been gaining practical experience working with **Python-based data extraction, processing and automation tasks**.
+
+### 🔎 What I've Worked With
 
 - 🐍 Python programming
 - 🌐 Web Scraping
@@ -73,119 +81,123 @@ During my internship at **Techvito**, I have been gaining practical experience w
 - 🗂️ JSON data handling
 - 🔄 Data processing
 - ⚙️ Automation-oriented scripts
-- 🔎 Working with real-world web data
+- 🔍 Working with real-world web data
 - 📊 Converting extracted information into structured data
 
-### 🧠 What I'm Learning
+### 🧠 Real-World Workflow
 
-This internship has helped me understand how real-world data workflows operate:
+**Website / Public Data → Web Scraping → Data Extraction → JSON / Structured Data → Processing → Analysis**
 
-**Web Source → Data Extraction → Processing → Structured Data → Analysis**
+This experience has helped me understand how **real-world data workflows operate beyond classroom concepts**.
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Technical Arsenal
 
-### 📊 Data Analytics
+<div align="center">
 
-<p align="center">
+### 📊 DATA ANALYTICS
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-</p>
+<br><br>
 
-### 🐍 Python & Data Libraries
+### 🌐 DATA COLLECTION & APIs
 
-<p align="center">
+<img src="https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-334155?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Requests-HTTP%20Data-475569?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Data%20Integration-475569?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Requests-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+<br><br>
 
-</p>
+### 🔧 TOOLS
 
-### 🌐 Data & APIs
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-Data%20Handling-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-Data%20Integration-FF6F00?style=for-the-badge"/>
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## ⚖️ Court Case Tracking & Monitoring System
+<div align="center">
 
-A Python-based case monitoring system designed to extract and track court case information from publicly available court data.
+## ⚖️ COURT CASE TRACKING & MONITORING SYSTEM
 
-### 🔹 Features
+### **Automated Case Intelligence & Notification System**
+
+</div>
+
+A Python-based system designed to **extract, monitor and track court case information** from publicly available court data.
+
+### ✨ Highlights
 
 - 🔎 Case number based tracking
 - 🌐 Automated web scraping
 - 📋 Court display board monitoring
 - 📊 JSON-based case management
 - ⏱️ Periodic case checking
-- 🔔 Automated email notifications
 - 📌 Case status tracking
+- 🔔 Automated email notifications
+- 🔄 Continuous monitoring workflow
 
-### 🛠️ Technologies
+### 🧩 Technology
 
 `Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
 
 ---
 
-## 🌆 URBIX — Urban Intelligence Platform
+<div align="center">
+
+## 🌆 URBIX
 
 ### **Understand. Predict. Navigate.**
 
-URBIX is a data-driven platform designed to help understand urban conditions and present information through interactive visualizations.
+</div>
 
-### 🔹 Key Areas
+**URBIX** is a data-driven urban intelligence platform designed to help understand urban conditions through **data, maps and interactive visualizations**.
 
-- 📊 Data-driven insights
+### ✨ Highlights
+
+- 📊 Data-driven urban insights
 - 🗺️ Interactive maps
 - 🌧️ Environmental information
 - 📈 Data visualization
 - 🔎 Urban data exploration
 - 💡 Decision-support oriented analysis
 
-### 🛠️ Technologies
+### 🧩 Technology
 
 `Python` `React` `TypeScript` `APIs` `Data Analytics`
 
 ---
 
-## 🏥 HealthLedger
+<div align="center">
 
-A technology project focused on managing and organizing healthcare-related information through a structured application.
+## 🏥 HEALTHLEDGER
 
-### 🔹 Key Areas
+### **Structured Healthcare Information Platform**
+
+</div>
+
+A technology project focused on organizing healthcare-related information through a structured application and API-based architecture.
+
+### ✨ Highlights
 
 - 📋 Structured data management
 - 🔐 Information handling
-- 🔄 API communication
+- 🔄 REST API communication
 - 📊 Data organization
 - ⚙️ Backend processing
+- 🧩 Application-based workflow
 
-### 🛠️ Technologies
+### 🧩 Technology
 
 `Python` `FastAPI` `React` `TypeScript` `REST APIs`
 
@@ -193,47 +205,75 @@ A technology project focused on managing and organizing healthcare-related infor
 
 # 🏆 Certification
 
+<div align="center">
+
 ## ☁️ Microsoft Azure AI Fundamentals
 
-**Microsoft Azure AI Fundamentals — July 2025**
+### **July 2025**
 
-Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azure AI services.
+</div>
+
+Foundational certification covering **Artificial Intelligence concepts and Microsoft Azure AI services**.
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously improving my skills in:
+<div align="center">
 
-- 📊 Advanced Data Analytics
-- 🗄️ Advanced SQL
-- 📈 Power BI
-- 📑 Advanced Excel
-- 🧹 Data Cleaning
-- 🔍 Exploratory Data Analysis
-- 📊 Data Visualization
-- 💼 Business Intelligence
-- 💡 Analytical Problem Solving
+| 📊 Analytics | 🗄️ Data | 📈 Visualization |
+|:---:|:---:|:---:|
+| Advanced Data Analytics | Advanced SQL | Power BI |
+| Exploratory Data Analysis | Data Cleaning | Data Visualization |
+| Business Intelligence | Data Processing | Dashboard Design |
+
+</div>
+
+I'm continuously working toward becoming a stronger **Data Analyst** by combining technical skills with analytical and business thinking.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&hide_border=true&theme=transparent&title_color=0F172A&text_color=475569&icon_color=334155&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&hide_border=true&theme=transparent&title_color=0F172A&text_color=475569" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=transparent&hide_border=true&ring=334155&fire=475569&currStreakLabel=0F172A&sideLabels=475569&dates=64748B"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 My Data Mindset
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=tokyonight&hide_border=true"/>
+### **RAW DATA**
+
+⬇️
+
+### **CLEAN**
+
+⬇️
+
+### **ANALYZE**
+
+⬇️
+
+### **VISUALIZE**
+
+⬇️
+
+### **INSIGHT**
+
+⬇️
+
+### **DECISION**
 
 </div>
 
@@ -243,12 +283,16 @@ I'm continuously improving my skills in:
 
 <div align="center">
 
+I'm always open to connecting with people interested in **Data Analytics, Technology, AI and real-world data projects.**
+
+<br><br>
+
 <a href="https://github.com/shreyachowdary79">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -267,10 +311,12 @@ I'm continuously improving my skills in:
 
 <br><br>
 
+### ⭐ Thanks for visiting my profile!
+
 **Analyze • Visualize • Discover • Solve**
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shreyachowdary79&label=PROFILE+VIEWS&color=181717&style=flat-square" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
 
 </div>
