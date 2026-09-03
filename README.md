@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm **Shreya Chowdary**
+# 👋 Hi, I'm **Shreya Chowdary**
 
-### 📊 Data Analyst • Python • SQL • Power BI • Excel
+### 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-**Turning data into insights, dashboards, and decisions.**
+**Turning raw data into meaningful insights.**
 
 <br>
 
@@ -34,32 +34,127 @@
 
 ## 👩‍💻 About Me
 
-I'm **Shreya Chowdary**, a Computer Science Engineering student passionate about **Data Analytics, Data Visualization, and solving real-world problems with data**.
+I'm **Shreya Chowdary**, a Computer Science Engineering student passionate about **Data Analytics, Data Visualization, and data-driven problem solving**.
 
-I enjoy working with raw and unstructured data, transforming it into meaningful information, and presenting insights through **visualizations, dashboards, and analytical reports**.
+I enjoy transforming raw data into meaningful information and using **Python, SQL, Power BI, and Excel** to analyze, visualize, and communicate insights.
 
-Currently, I'm gaining practical industry experience as a **Data & Python Intern at Techvito**, where I work with **Python, web scraping, data extraction, JSON, and data processing**.
+Currently, I'm gaining hands-on industry experience as a **Data & Python Intern at Techvito**, working on real-world data extraction, web scraping, automation, and data processing tasks.
 
-### 💡 What I Enjoy
-
-* 📊 Data Analysis & Exploration
-* 🐍 Python-based Data Processing
-* 🗄️ SQL & Database Queries
-* 📈 Power BI Dashboards
-* 📑 Excel Analysis & Reporting
-* 🌐 Web Scraping & Data Extraction
-* 🔍 Data Cleaning & EDA
-* 💭 Turning raw data into useful insights
-
-### 🎯 Career Interests
+### 🎯 Career Focus
 
 **Data Analytics · Business Intelligence · Data Visualization · Python · SQL**
 
 ---
 
-## 🛠️ Skills & Technologies
+# 💼 Internship Experience
 
-### 📊 Data Analytics
+## 🏢 Data & Python Intern — Techvito
+
+I'm currently gaining practical industry experience working with **Python, web scraping, data extraction, JSON, and automation-oriented data workflows**.
+
+### 🔹 What I Work With
+
+* 🐍 **Python Programming**
+* 🌐 **Web Scraping**
+* 📥 **Data Extraction**
+* 🗂️ **JSON Data Processing**
+* 🔄 **Structured & Semi-Structured Data**
+* ⚙️ **Automation Scripts**
+* 📊 **Data Processing & Analysis**
+
+### 🔁 My Data Workflow
+
+<div align="center">
+
+**🌐 Web Sources**
+
+↓
+
+**📥 Data Extraction**
+
+↓
+
+**⚙️ Processing & Cleaning**
+
+↓
+
+**🗂️ Structured Data**
+
+↓
+
+**📊 Analysis & Insights**
+
+</div>
+
+### 💡 What This Experience Has Taught Me
+
+Through my internship, I'm gaining exposure to how real-world data workflows operate — from **collecting information from web sources to processing and organizing it into useful structured data**.
+
+---
+
+# 🚀 Featured Projects
+
+## ⚖️ Court Case Tracking & Monitoring System
+
+A Python-based automation system designed to monitor court case information from publicly available court data.
+
+### ✨ Key Features
+
+* 🔎 Case number-based tracking
+* 🌐 Automated web scraping
+* 📋 Court display board monitoring
+* 📄 JSON-based case management
+* 🔔 Automated email notifications
+* ⏱️ Periodic status checking
+* 🔄 Status-change based notifications
+
+### 🧰 Tech Stack
+
+`Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
+
+---
+
+## 🌆 URBIX — Urban Data & Intelligence Platform
+
+### **Understand • Predict • Navigate**
+
+A data-driven platform focused on understanding urban conditions and presenting information through meaningful and interactive visualizations.
+
+### ✨ Key Focus
+
+* 📊 Data-driven urban insights
+* 🗺️ Interactive visualization
+* 🌧️ Urban & environmental information
+* 📈 Data analysis and presentation
+* 💡 Decision-support oriented design
+
+### 🧰 Tech Stack
+
+`Python` `React` `TypeScript` `APIs` `Data Analytics`
+
+---
+
+## 🏥 HealthLedger
+
+A technology-based application focused on organizing and managing healthcare-related information using a modern application architecture.
+
+### ✨ Key Focus
+
+* 📋 Structured data management
+* 🔐 Secure information handling
+* 🔄 REST API communication
+* 📊 Organized data workflows
+* 🖥️ Modern frontend architecture
+
+### 🧰 Tech Stack
+
+`Python` `FastAPI` `React` `TypeScript` `REST APIs`
+
+---
+
+# 🛠️ Technical Skills
+
+### 📊 Data Analytics & Visualization
 
 <p align="center">
 
@@ -81,6 +176,17 @@ Currently, I'm gaining practical industry experience as a **Data & Python Intern
 
 </p>
 
+### 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
 ### 🌐 Data & APIs
 
 <p align="center">
@@ -88,17 +194,6 @@ Currently, I'm gaining practical industry experience as a **Data & Python Intern
 <img src="https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JSON-Data%20Handling-000000?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-Data%20Integration-FF6F00?style=for-the-badge"/>
-
-</p>
-
-### 💻 Programming
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
@@ -115,113 +210,32 @@ Currently, I'm gaining practical industry experience as a **Data & Python Intern
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Currently Learning
 
-### ⚖️ Court Case Tracking & Monitoring System
+I'm continuously improving my skills in:
 
-A Python-based automation system designed to monitor court case information from publicly available court data.
+<div align="center">
 
-**Highlights**
+`Advanced SQL`   `Power BI`   `Data Visualization`
+`Business Intelligence`   `Data Cleaning`   `EDA`
 
-* 🔎 Case number-based tracking
-* 🌐 Automated web scraping
-* 📋 Court display board monitoring
-* 📄 Structured JSON case management
-* 🔔 Automated email notifications
-* ⏱️ Periodic case status monitoring
-* 🔄 Status-change based notifications
+</div>
 
-**Tech Stack**
+### 🔍 Current Focus
 
-`Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
-
----
-
-### 🌆 URBIX — Urban Data & Intelligence Platform
-
-**Understand • Predict • Navigate**
-
-A data-driven platform focused on understanding urban conditions and presenting information through interactive and meaningful visualizations.
-
-**Highlights**
-
-* 📊 Data-driven urban insights
-* 🗺️ Interactive visualization
-* 🌧️ Environmental information
-* 📈 Data analysis & presentation
-* 💡 Decision-support oriented design
-
-**Tech Stack**
-
-`Python` `React` `TypeScript` `APIs` `Data Analytics`
+* 📊 Advanced SQL
+* 🧹 Data Cleaning
+* 🔎 Exploratory Data Analysis
+* 📈 Power BI Dashboard Development
+* 📊 Data Visualization
+* 💼 Business Intelligence
+* 🧠 Analytical Problem Solving
 
 ---
 
-### 🏥 HealthLedger
+# 🏆 Certification
 
-A technology-based application focused on organizing and managing healthcare-related information using a modern full-stack architecture.
-
-**Highlights**
-
-* 📋 Structured information management
-* 🔐 Secure data handling
-* 🔄 REST API communication
-* 📊 Organized data workflows
-* 🖥️ Modern frontend architecture
-
-**Tech Stack**
-
-`Python` `FastAPI` `React` `TypeScript` `REST APIs`
-
----
-
-## 💼 Internship
-
-### 🏢 Techvito
-
-**Data & Python Intern**
-
-Currently gaining practical industry experience in **data extraction, automation, web scraping, and structured data processing**.
-
-### 🔹 Key Responsibilities & Learning
-
-* 🐍 Python programming
-* 🌐 Web scraping
-* 📥 Data extraction
-* 🗂️ JSON processing
-* 🔄 Structured & semi-structured data handling
-* ⚙️ Automation-oriented scripting
-* 📊 Real-world data workflows
-
----
-
-## 📚 Currently Learning
-
-I'm continuously strengthening my skills in:
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
-
-</p>
-
-* Advanced SQL
-* Data Cleaning
-* Exploratory Data Analysis
-* Power BI Dashboard Development
-* Data Visualization
-* Business Intelligence
-* Analytical Problem Solving
-
----
-
-## 🏆 Certification
-
-### ☁️ Microsoft Azure AI Fundamentals
+## ☁️ Microsoft Azure AI Fundamentals
 
 **Microsoft Azure AI Fundamentals — July 2025**
 
@@ -229,22 +243,7 @@ Demonstrated foundational knowledge of **Artificial Intelligence and Microsoft A
 
 ---
 
-## 💡 Core Skills
-
-| Category               | Skills                                |
-| ---------------------- | ------------------------------------- |
-| 🐍 **Programming**     | Python, C, C++, Java                  |
-| 📊 **Data Analytics**  | Pandas, NumPy, Data Cleaning, EDA     |
-| 🗄️ **Database**       | SQL                                   |
-| 📈 **Visualization**   | Power BI, Excel                       |
-| 🌐 **Data Extraction** | Web Scraping, BeautifulSoup, Requests |
-| 📄 **Data Formats**    | JSON, CSV                             |
-| ⚙️ **Development**     | FastAPI, REST APIs                    |
-| 🔧 **Tools**           | Git, GitHub, VS Code                  |
-
----
-
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -256,7 +255,7 @@ Demonstrated foundational knowledge of **Artificial Intelligence and Microsoft A
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -266,7 +265,7 @@ Demonstrated foundational knowledge of **Artificial Intelligence and Microsoft A
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -276,7 +275,7 @@ Demonstrated foundational knowledge of **Artificial Intelligence and Microsoft A
 
 ---
 
-## 📬 Let's Connect
+# 📬 Let's Connect
 
 <div align="center">
 
@@ -304,7 +303,7 @@ Demonstrated foundational knowledge of **Artificial Intelligence and Microsoft A
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
 **Building • Learning • Analyzing • Improving**
 
