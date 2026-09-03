@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst • Python • SQL • Power BI • Excel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=10000&color=2563EB&center=true&vCenter=true&width=700&lines=Turning+data+into+meaningful+insights+and+practical+solutions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=10000&color=1E3A8A&center=true&vCenter=true&width=700&lines=Turning+data+into+meaningful+insights+and+practical+solutions." alt="Typing SVG" />
 
 <br>
 
@@ -20,25 +20,22 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-**Analyze • Visualize • Discover • Solve**
-
-<div>
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** with a strong interest in **Data Analytics, Python, SQL, Business Intelligence, and Data-driven problem solving**.
+I'm a **Computer Science Engineering student** with a strong interest in **Data Analytics, Python, SQL, Business Intelligence, and data-driven problem solving**.
 
 I enjoy working with raw and unstructured data, transforming it into meaningful information, and building solutions that make data easier to understand and use.
 
-🔹 Interested in **Data Analytics & Business Intelligence**
-🔹 Strong foundation in **Python, SQL & Data Analysis**
-🔹 Experience with **data extraction, cleaning, processing & automation**
-🔹 Building **real-world projects using Python, APIs & web technologies**
-🔹 Interested in turning complex datasets into **clear insights and actionable information**
+* 📊 Interested in **Data Analytics & Business Intelligence**
+* 🐍 Strong foundation in **Python and SQL**
+* 🔎 Experience with **data extraction, cleaning, processing and automation**
+* 📈 Interested in **data visualization and dashboard development**
+* 🌐 Building real-world projects using **Python, APIs and web technologies**
+* 💡 Passionate about turning data into **clear insights and practical solutions**
 
 ---
 
@@ -46,25 +43,25 @@ I enjoy working with raw and unstructured data, transforming it into meaningful 
 
 ### **Data & Python Intern — Techvito**
 
-During my internship at **Techvito**, I worked on practical data extraction and automation tasks using Python.
+During my internship at **Techvito**, I worked on practical data extraction, processing and automation tasks using Python.
 
-#### 🔎 What I Worked On
+### 🔎 What I Worked On
 
 * Extracted data from web sources using **Python**
-* Worked with **Requests** for HTTP-based data collection
+* Used **Requests** for HTTP-based data collection
 * Used **BeautifulSoup** for web scraping and HTML parsing
-* Processed and structured extracted information
 * Worked with **JSON and semi-structured data**
+* Processed and transformed extracted information
 * Cleaned and organized collected data
-* Built Python scripts to automate repetitive data-related tasks
+* Built Python scripts for repetitive data-related tasks
 * Worked with real-world web data workflows
-* Converted raw extracted information into more **structured and usable formats**
+* Converted raw information into **structured and usable formats**
 
 ### 🔄 Internship Workflow
 
 **Web Sources → Data Extraction → Processing → Structuring → Automation → Usable Information**
 
-This experience helped me understand how Python can be used not only for programming, but also for **real-world data collection, processing and automation**.
+This experience strengthened my understanding of using Python for **real-world data collection, processing and automation**.
 
 ---
 
@@ -72,7 +69,7 @@ This experience helped me understand how Python can be used not only for program
 
 ### 📊 Data Analytics
 
-Exploring ways to turn raw datasets into meaningful insights through:
+Exploring ways to transform raw datasets into meaningful insights through:
 
 * Exploratory Data Analysis
 * Data Cleaning
@@ -81,8 +78,9 @@ Exploring ways to turn raw datasets into meaningful insights through:
 * KPI Analysis
 * Dashboard Development
 * Business Intelligence
+* Data Storytelling
 
-### 🐍 Python Automation
+### 🐍 Python & Automation
 
 Building Python-based solutions for:
 
@@ -94,7 +92,7 @@ Building Python-based solutions for:
 
 ### 🌐 Real-World Data Projects
 
-Currently developing projects that combine **data, automation, APIs and software development** to solve practical problems.
+Developing projects that combine **data, automation, APIs and software development** to solve practical problems.
 
 ---
 
