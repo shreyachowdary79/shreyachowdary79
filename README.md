@@ -186,37 +186,6 @@ A modern application focused on managing and presenting healthcare-related infor
 
 <br>
 
-# 📈 Data Analyst Skill Set
-
-<div align="center">
-
-| Area                      | Skills                                                    |
-| ------------------------- | --------------------------------------------------------- |
-| **Programming**           | Python • SQL • C • C++ • Java                             |
-| **Data Analysis**         | Pandas • NumPy • EDA • Statistics                         |
-| **Visualization**         | Power BI • Excel • Matplotlib                             |
-| **Data Preparation**      | Cleaning • Transformation • ETL • Validation              |
-| **Data Collection**       | Web Scraping • Requests • BeautifulSoup • APIs            |
-| **Business Intelligence** | KPI Analysis • Dashboards • Reporting • Data Storytelling |
-| **Automation**            | Python Automation • Workflow Automation                   |
-| **Development**           | FastAPI • REST APIs • Git • GitHub                        |
-
-</div>
-
-<br>
-
-# 🌱 Currently Learning
-
-* Advanced SQL
-* Advanced Power BI
-* Data Visualization
-* Business Intelligence
-* Statistical Analysis
-* Machine Learning
-* Advanced Python for Data Analytics
-
-<br>
-
 <div align="center">
 
 # 🤝 Connect With Me
