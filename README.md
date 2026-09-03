@@ -1,109 +1,280 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00D4FF&height=180&section=header&text=Shreya%20Chowdary&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20·%20Python%20·%20SQL%20·%20Power%20BI&descAlignY=62&descAlign=50&descColor=E8DEF8" width="100%"/>
+# 👋 Hi, I'm **Shreya Chowdary**
 
-<a href="https://github.com/shreyachowdary79"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+### 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-</div>
+**Turning raw data into meaningful insights.**
 
-<br/>
+<br>
 
-## About Me
+<a href="https://github.com/shreyachowdary79">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Computer Science Engineering student with a strong interest in **Data Analytics, Data Visualization, and data-driven problem solving**. I enjoy turning raw data into insights that support better decisions.
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Focus areas:** Data Analytics · Business Intelligence · Data Visualization · Python · SQL
-
-<br/>
-
-## Internship Experience
-
-**Techvito — Data & Python Intern**
-Hands-on experience with data extraction and automation: Python programming, web scraping, JSON processing, and building automation-oriented scripts — understanding how data moves from web sources to structured information.
-
-<br/>
-
-## Let's Connect
-
-[GitHub](https://github.com/shreyachowdary79) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
-
-<br/>
-
-## Featured Projects
-
-**⚖️ Court Case Tracking & Monitoring System**
-Python-based system that tracks court case status via publicly available court data — web scraping, JSON-based case management, and automated email notifications.
-`Python` `Requests` `BeautifulSoup` `JSON` `SMTP`
-
-**🌆 URBIX — Urban Data & Intelligence Platform**
-Data-driven platform presenting urban and environmental data through interactive visualization.
-`Python` `React` `TypeScript` `APIs`
-
-**🏥 HealthLedger**
-Healthcare information management project built on a modern application architecture with secure, structured data handling.
-`Python` `FastAPI` `React` `TypeScript`
-
-<br/>
-
-## Tech Stack
-
-`Python` `SQL` `Power BI` `Excel` `Pandas` `NumPy` `BeautifulSoup` `Requests` `JSON` `REST APIs` `FastAPI` `Git` `GitHub` `VS Code`
-
-<br/>
-
-## Currently Learning
-
-Advanced SQL · Data Cleaning · Exploratory Data Analysis · Power BI Dashboards · Business Intelligence
-
-<br/>
-
-## Certifications
-
-**Microsoft Azure AI Fundamentals** — July 2025
-Foundational knowledge of Artificial Intelligence and Microsoft Azure AI services.
-
-<br/>
-
-## Core Skills
-
-| Category | Skills |
-|---|---|
-| Programming | Python, C, C++, Java |
-| Data Analytics | Pandas, NumPy, Data Cleaning, EDA |
-| Database | SQL |
-| Visualization | Power BI, Excel |
-| Data Extraction | Web Scraping, BeautifulSoup, Requests |
-| Data Formats | JSON, CSV |
-| Development | FastAPI, REST APIs |
-| Tools | Git, GitHub, VS Code |
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=tokyonight&hide_border=true"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-**Contribution Graph**
+<br>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+> **Analyze • Visualize • Discover • Solve**
+
 </div>
 
-<br/>
+---
+
+# 👩‍💻 About Me
+
+Hi, I'm **Shreya Chowdary**, a Computer Science Engineering student passionate about **Data Analytics, Data Visualization, and data-driven problem solving**.
+
+I enjoy working with data to discover patterns, extract useful information, and turn raw data into meaningful insights.
+
+My current experience combines **Python, SQL, Power BI, Excel, Web Scraping, JSON and data processing**.
+
+I'm particularly interested in building practical solutions that connect **data collection → data processing → analysis → visualization → insights**.
+
+### 🎯 My Focus
+
+- 📊 Data Analytics
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Databases
+- 📈 Power BI Dashboards
+- 📑 Excel Analytics
+- 🌐 Web Scraping & Data Extraction
+- 🔍 Data Cleaning & Exploration
+- 💡 Data-driven Problem Solving
+
+---
+
+# 💼 Internship Experience
+
+## 🏢 Techvito
+
+### **Python / Data Intern**
+
+During my internship at **Techvito**, I have been gaining practical experience working with Python-based data extraction and automation tasks.
+
+### 🔹 What I've Worked With
+
+- 🐍 Python programming
+- 🌐 Web Scraping
+- 📥 Data Extraction
+- 🗂️ JSON data handling
+- 🔄 Data processing
+- ⚙️ Automation-oriented scripts
+- 🔎 Working with real-world web data
+- 📊 Converting extracted information into structured data
+
+### 🧠 What I'm Learning
+
+This internship has helped me understand how real-world data workflows operate:
+
+**Web Source → Data Extraction → Processing → Structured Data → Analysis**
+
+---
+
+# 🛠️ Technical Skills
+
+### 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+### 🐍 Python & Data Libraries
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Requests-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### 🌐 Data & APIs
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-Data%20Handling-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Data%20Integration-FF6F00?style=for-the-badge"/>
+
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚖️ Court Case Tracking & Monitoring System
+
+A Python-based case monitoring system designed to extract and track court case information from publicly available court data.
+
+### 🔹 Features
+
+- 🔎 Case number based tracking
+- 🌐 Automated web scraping
+- 📋 Court display board monitoring
+- 📊 JSON-based case management
+- ⏱️ Periodic case checking
+- 🔔 Automated email notifications
+- 📌 Case status tracking
+
+### 🛠️ Technologies
+
+`Python` `Requests` `BeautifulSoup` `JSON` `Web Scraping` `SMTP`
+
+---
+
+## 🌆 URBIX — Urban Intelligence Platform
+
+**Understand. Predict. Navigate.**
+
+URBIX is a data-driven platform designed to help understand urban conditions and present information through interactive visualizations.
+
+### 🔹 Key Areas
+
+- 📊 Data-driven insights
+- 🗺️ Interactive maps
+- 🌧️ Environmental information
+- 📈 Data visualization
+- 🔎 Urban data exploration
+- 💡 Decision-support oriented analysis
+
+### 🛠️ Technologies
+
+`Python` `React` `TypeScript` `APIs` `Data Analytics`
+
+---
+
+## 🏥 HealthLedger
+
+A technology project focused on managing and organizing healthcare-related information through a structured application.
+
+### 🔹 Key Areas
+
+- 📋 Structured data management
+- 🔐 Information handling
+- 🔄 API communication
+- 📊 Data organization
+- ⚙️ Backend processing
+
+### 🛠️ Technologies
+
+`Python` `FastAPI` `React` `TypeScript` `REST APIs`
+
+---
+
+# 🏆 Certification
+
+## ☁️ Microsoft Azure AI Fundamentals
+
+**Microsoft Azure AI Fundamentals — July 2025**
+
+Demonstrated foundational knowledge of Artificial Intelligence and Microsoft Azure AI services.
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my skills in:
+
+- 📊 Advanced Data Analytics
+- 🗄️ Advanced SQL
+- 📈 Power BI
+- 📑 Advanced Excel
+- 🧹 Data Cleaning
+- 🔍 Exploratory Data Analysis
+- 📊 Data Visualization
+- 💼 Business Intelligence
+- 💡 Analytical Problem Solving
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+<img src="https://github-readme-stats.vercel.app/api?username=shreyachowdary79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://komarev.com/ghpvc/?username=shreyachowdary79&style=flat-square&color=8E2DE2" alt="Profile Views"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyachowdary79&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shreyachowdary79&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/shreyachowdary79">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Analyze • Visualize • Discover • Solve**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shreyachowdary79&style=for-the-badge" alt="Profile Views"/>
 
 </div>
