@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=21&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=40&lines=%F0%9F%93%8A+Data+Analyst+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=19&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=40&lines=%F0%9F%93%8A+Data+Analyst+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel" />
 </p>
 
 <p align="center">
