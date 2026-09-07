@@ -1,9 +1,9 @@
 <p align="center">
-  <strong style="font-size: 42px;">👋 Hi, I'm Shreya Chowdary</strong>
+  <font size="7"><b>👋 Hi, I'm Shreya Chowdary</b></font>
 </p>
 
 <p align="center">
-  <strong style="font-size: 21px;">📊 Data Analyst • Python • SQL • Power BI • Excel</strong>
+  <font size="5"><b>📊 Data Analyst • Python • SQL • Power BI • Excel</b></font>
 </p>
 
 <p align="center">
