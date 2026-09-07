@@ -13,13 +13,7 @@
 <h3>👩‍💻 About Me</h3>
 
 <big>I'm a B.Tech Computer Science student with a strong interest in <b>Data Analytics, Business Intelligence, and Python-based data solutions</b>.</big>
-
-<br><br>
-
 <big>I enjoy working with raw and unstructured data, transforming it into meaningful information, and building dashboards and analytical solutions that help support better decisions.</big>
-
-<br><br>
-
 <big>I'm particularly interested in <b>data cleaning, exploratory data analysis, visualization, SQL, Power BI, automation, and real-world data projects</b>.</big>
 
 <h3>💼 Internship Experience</h3>
