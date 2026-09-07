@@ -12,29 +12,35 @@
 
 <h3>👩‍💻 About Me</h3>
 
-I'm a B.Tech Computer Science student with a strong interest in <b>Data Analytics, Business Intelligence, and Python-based data solutions</b>.
+<big>I'm a B.Tech Computer Science student with a strong interest in <b>Data Analytics, Business Intelligence, and Python-based data solutions</b>.</big>
 
-I enjoy working with raw and unstructured data, transforming it into meaningful information, and building dashboards and analytical solutions that help support better decisions.
+<br><br>
 
-I'm particularly interested in <b>data cleaning, exploratory data analysis, visualization, SQL, Power BI, automation, and real-world data projects</b>.
+<big>I enjoy working with raw and unstructured data, transforming it into meaningful information, and building dashboards and analytical solutions that help support better decisions.</big>
+
+<br><br>
+
+<big>I'm particularly interested in <b>data cleaning, exploratory data analysis, visualization, SQL, Power BI, automation, and real-world data projects</b>.</big>
 
 <h3>💼 Internship Experience</h3>
 
-<b>Data & Python Intern — Techvito</b>
+<big><b>Data & Python Intern — Techvito</b></big>
+
+<br>
 
 <ul>
-  <li>Extracted data from web sources using Python</li>
-  <li>Used Requests for HTTP-based data collection</li>
-  <li>Used BeautifulSoup for web scraping and HTML parsing</li>
-  <li>Worked with JSON and semi-structured data</li>
-  <li>Cleaned, processed, and transformed extracted information</li>
-  <li>Developed Python scripts to automate repetitive tasks</li>
-  <li>Converted raw web data into structured and usable formats</li>
+  <li><big>Extracted data from web sources using Python</big></li>
+  <li><big>Used Requests for HTTP-based data collection</big></li>
+  <li><big>Used BeautifulSoup for web scraping and HTML parsing</big></li>
+  <li><big>Worked with JSON and semi-structured data</big></li>
+  <li><big>Cleaned, processed, and transformed extracted information</big></li>
+  <li><big>Developed Python scripts to automate repetitive tasks</big></li>
+  <li><big>Converted raw web data into structured and usable formats</big></li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
 
-<h5>📊 Data Analytics</h5>
+<h4>📊 Data Analytics</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -120,69 +126,89 @@ I'm particularly interested in <b>data cleaning, exploratory data analysis, visu
 <h3>📌 What I Do</h3>
 
 <ul>
-  <li>📊 Analyze and interpret datasets to identify useful insights</li>
-  <li>🧹 Clean, transform, and prepare raw data for analysis</li>
-  <li>🐍 Use Python for data processing and automation</li>
-  <li>🗄️ Write SQL queries to extract and analyze data</li>
-  <li>📈 Build dashboards and visualizations using Power BI and Excel</li>
-  <li>🌐 Collect and structure data using APIs and web scraping</li>
-  <li>🤖 Explore machine learning techniques for real-world problems</li>
-  <li>💡 Turn data into practical and understandable solutions</li>
+  <li><big>📊 Analyze and interpret datasets to identify useful insights</big></li>
+  <li><big>🧹 Clean, transform, and prepare raw data for analysis</big></li>
+  <li><big>🐍 Use Python for data processing and automation</big></li>
+  <li><big>🗄️ Write SQL queries to extract and analyze data</big></li>
+  <li><big>📈 Build dashboards and visualizations using Power BI and Excel</big></li>
+  <li><big>🌐 Collect and structure data using APIs and web scraping</big></li>
+  <li><big>🤖 Explore machine learning techniques for real-world problems</big></li>
+  <li><big>💡 Turn data into practical and understandable solutions</big></li>
 </ul>
 
 <h3>🚀 Projects</h3>
 
 <h4>🛡️ ClaimGuard — Insurance Claims Fraud Detection</h4>
 
-An end-to-end platform for analyzing insurance claims and identifying suspicious patterns.
+<big>An end-to-end platform for analyzing insurance claims and identifying suspicious patterns.</big>
 
-Uses data validation, anomaly detection, fraud scoring, and analytics to help assess claim risk.
+<br><br>
 
-<b>Tech:</b> Python · FastAPI · PostgreSQL · Pandas · Scikit-learn · Isolation Forest · Next.js · TypeScript
+<big>Uses data validation, anomaly detection, fraud scoring, and analytics to help assess claim risk.</big>
+
+<br><br>
+
+<big><b>Tech:</b> Python · FastAPI · PostgreSQL · Pandas · Scikit-learn · Isolation Forest · Next.js · TypeScript</big>
 
 <h4>🏥 HealthLedger</h4>
 
-A structured healthcare information platform focused on organizing healthcare data and communicating through APIs.
+<big>A structured healthcare information platform focused on organizing healthcare data and communicating through APIs.</big>
 
-Built with an emphasis on structured information management, data organization, and backend development.
+<br><br>
 
-<b>Tech:</b> Python · FastAPI · React · TypeScript · REST APIs
+<big>Built with an emphasis on structured information management, data organization, and backend development.</big>
+
+<br><br>
+
+<big><b>Tech:</b> Python · FastAPI · React · TypeScript · REST APIs</big>
 
 <h4>🧴 Dermat-AI</h4>
 
-An AI-powered web application that classifies skin lesions from uploaded images.
+<big>An AI-powered web application that classifies skin lesions from uploaded images.</big>
 
-Uses a trained deep-learning model to generate predictions through a simple web interface.
+<br><br>
 
-<b>Tech:</b> Python · Flask · TensorFlow · Keras · Machine Learning · HTML · CSS
+<big>Uses a trained deep-learning model to generate predictions through a simple web interface.</big>
+
+<br><br>
+
+<big><b>Tech:</b> Python · Flask · TensorFlow · Keras · Machine Learning · HTML · CSS</big>
 
 <h4>⚖️ Court Case Tracking & Monitoring System</h4>
 
-A Python-based system for tracking court cases using publicly available court data.
+<big>A Python-based system for tracking court cases using publicly available court data.</big>
 
-Automates case extraction, cause-list processing, status monitoring, and email notifications.
+<br><br>
 
-<b>Tech:</b> Python · Requests · BeautifulSoup · JSON · Web Scraping · SMTP
+<big>Automates case extraction, cause-list processing, status monitoring, and email notifications.</big>
+
+<br><br>
+
+<big><b>Tech:</b> Python · Requests · BeautifulSoup · JSON · Web Scraping · SMTP</big>
 
 <h4>🏙️ URBIX — Urban Data & Intelligence Platform</h4>
 
-A data-driven platform designed to bring together urban information and make it easier to understand.
+<big>A data-driven platform designed to bring together urban information and make it easier to understand.</big>
 
-Works with environmental, rainfall, weather, API, and visualization-based data for decision support.
+<br><br>
 
-<b>Tech:</b> Python · Data Analytics · React · TypeScript · APIs
+<big>Works with environmental, rainfall, weather, API, and visualization-based data for decision support.</big>
+
+<br><br>
+
+<big><b>Tech:</b> Python · Data Analytics · React · TypeScript · APIs</big>
 
 <h3>📚 Contributions & Learning</h3>
 
 <ul>
-  <li>📊 Strengthening my Data Analytics skills</li>
-  <li>🐍 Building practical Python data projects</li>
-  <li>🗄️ Improving SQL and database skills</li>
-  <li>📈 Developing Power BI dashboards</li>
-  <li>📉 Practicing EDA and statistical analysis</li>
-  <li>🤖 Exploring Machine Learning</li>
-  <li>🌐 Working with APIs and real-world datasets</li>
-  <li>💻 Continuously improving my GitHub portfolio</li>
+  <li><big>📊 Strengthening my Data Analytics skills</big></li>
+  <li><big>🐍 Building practical Python data projects</big></li>
+  <li><big>🗄️ Improving SQL and database skills</big></li>
+  <li><big>📈 Developing Power BI dashboards</big></li>
+  <li><big>📉 Practicing EDA and statistical analysis</big></li>
+  <li><big>🤖 Exploring Machine Learning</big></li>
+  <li><big>🌐 Working with APIs and real-world datasets</big></li>
+  <li><big>💻 Continuously improving my GitHub portfolio</big></li>
 </ul>
 
 <h3>🤝 Connect With Me</h3>
