@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Chowdary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Chowdary" />
 </p>
 
 <p align="center">
