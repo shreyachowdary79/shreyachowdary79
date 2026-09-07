@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=38&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Chowdary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Chowdary" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=21&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=40&lines=%F0%9F%93%8A+Data+Analyst+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&duration=1&pause=10000&color=24292F&center=true&vCenter=true&repeat=false&width=850&height=40&lines=%F0%9F%93%8A+Data+Analyst+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=19&duration=4000&pause=6000&color=4F81BD&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Turning+data+into+meaningful+insights+and+practical+solutions." />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=21&duration=4000&pause=6000&color=4F81BD&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Turning+data+into+meaningful+insights+and+practical+solutions." />
 </p>
 
 <h3>👩‍💻 About Me</h3>
@@ -201,24 +201,6 @@ Currently strengthening my skills in Data Analytics, SQL, Python, Power BI, Exce
 
 <p>
 I’m also exploring better ways to combine data analytics with automation, APIs, and software development to build practical and useful solutions.
-</p>
-
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyachowdary79&theme=default" />
-</p>
-
-<h3>💻 Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyachowdary79&theme=default" />
-</p>
-
-<h3>📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyachowdary79&theme=default" />
 </p>
 
 <h3>🤝 Connect With Me</h3>
