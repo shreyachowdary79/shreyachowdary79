@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 32px;">👋 Hi, I'm Shreya Chowdary</strong>
+  <strong style="font-size: 56px;">👋 Hi, I'm Shreya Chowdary</strong>
 </p>
 
 <p align="center">
