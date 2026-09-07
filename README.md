@@ -1,5 +1,5 @@
 <p align="center">
-  <big><big><big><big><b>👋 Hi, I'm Shreya Chowdary</b></big></big></big></big>
+  <big><big><big><big><big><b>👋 Hi, I'm Shreya Chowdary</b></big></big></big></big></big>
 </p>
 
 <p align="center">
@@ -20,12 +20,12 @@ I'm particularly interested in **data cleaning, exploratory data analysis, visua
 
 <h3>💼 Internship Experience</h3>
 
-**Data & Python Intern — Techvito**
+<b>Data & Python Intern — Techvito</b>
 
 - Extracted data from web sources using Python
-- Used **Requests** for HTTP-based data collection
-- Used **BeautifulSoup** for web scraping and HTML parsing
-- Worked with **JSON and semi-structured data**
+- Used <b>Requests</b> for HTTP-based data collection
+- Used <b>BeautifulSoup</b> for web scraping and HTML parsing
+- Worked with <b>JSON and semi-structured data</b>
 - Cleaned, processed, and transformed extracted information
 - Developed Python scripts to automate repetitive tasks
 - Converted raw web data into structured and usable formats
@@ -85,7 +85,7 @@ An end-to-end platform for analyzing insurance claims and identifying suspicious
 
 Uses data validation, anomaly detection, fraud scoring, and analytics to help assess claim risk.
 
-**Tech:** Python • FastAPI • PostgreSQL • Pandas • Scikit-learn • Isolation Forest • Next.js • TypeScript
+<b>Tech:</b> Python • FastAPI • PostgreSQL • Pandas • Scikit-learn • Isolation Forest • Next.js • TypeScript
 
 <h4>🏥 HealthLedger</h4>
 
@@ -93,7 +93,7 @@ A structured healthcare information platform focused on organizing healthcare da
 
 Built with an emphasis on structured information management, data organization, and backend development.
 
-**Tech:** Python • FastAPI • React • TypeScript • REST APIs
+<b>Tech:</b> Python • FastAPI • React • TypeScript • REST APIs
 
 <h4>🧴 Dermat-AI</h4>
 
@@ -101,7 +101,7 @@ An AI-powered web application that classifies skin lesions from uploaded images.
 
 Uses a trained deep-learning model to generate predictions through a simple web interface.
 
-**Tech:** Python • Flask • TensorFlow • Keras • Machine Learning • HTML • CSS
+<b>Tech:</b> Python • Flask • TensorFlow • Keras • Machine Learning • HTML • CSS
 
 <h4>⚖️ Court Case Tracking & Monitoring System</h4>
 
@@ -109,7 +109,7 @@ A Python-based system for tracking court cases using publicly available court da
 
 Automates case extraction, cause-list processing, status monitoring, and email notifications.
 
-**Tech:** Python • Requests • BeautifulSoup • JSON • Web Scraping • SMTP
+<b>Tech:</b> Python • Requests • BeautifulSoup • JSON • Web Scraping • SMTP
 
 <h4>🏙️ URBIX — Urban Data & Intelligence Platform</h4>
 
@@ -117,7 +117,7 @@ A data-driven platform designed to bring together urban information and make it 
 
 Works with environmental, rainfall, weather, API, and visualization-based data for decision support.
 
-**Tech:** Python • Data Analytics • React • TypeScript • APIs
+<b>Tech:</b> Python • Data Analytics • React • TypeScript • APIs
 
 <h3>📚 Contributions & Learning</h3>
 
@@ -151,13 +151,17 @@ Works with environmental, rainfall, weather, API, and visualization-based data f
 <h3>🤝 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreya-b-chowdary">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shreyachowdary79">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+
+<a href="https://www.linkedin.com/in/shreya-b-chowdary">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/shreyachowdary79">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 <p align="center">
