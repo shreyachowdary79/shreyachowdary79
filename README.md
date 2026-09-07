@@ -1,13 +1,13 @@
 <p align="center">
-  <strong style="font-size: 56px;">👋 Hi, I'm Shreya Chowdary</strong>
+  <strong style="font-size: 42px;">👋 Hi, I'm Shreya Chowdary</strong>
 </p>
 
 <p align="center">
-  <strong>📊 Data Analyst • Python • SQL • Power BI • Excel</strong>
+  <strong style="font-size: 21px;">📊 Data Analyst • Python • SQL • Power BI • Excel</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=4000&pause=6000&color=4F81BD&center=true&vCenter=true&repeat=true&width=700&lines=Turning+data+into+meaningful+insights+and+practical+solutions." />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=19&duration=4000&pause=6000&color=4F81BD&center=true&vCenter=true&repeat=true&width=750&lines=Turning+data+into+meaningful+insights+and+practical+solutions." />
 </p>
 
 <h3>👩‍💻 About Me</h3>
