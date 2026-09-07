@@ -34,7 +34,7 @@ I'm particularly interested in <b>data cleaning, exploratory data analysis, visu
 
 <h3>🛠️ Tech Stack</h3>
 
-<h4>📊 Data Analytics</h4>
+<h5>📊 Data Analytics</h5>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -184,24 +184,6 @@ Works with environmental, rainfall, weather, API, and visualization-based data f
   <li>🌐 Working with APIs and real-world datasets</li>
   <li>💻 Continuously improving my GitHub portfolio</li>
 </ul>
-
-<h3>📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyachowdary79&theme=default" />
-</p>
-
-<h3>💻 Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyachowdary79&theme=default" />
-</p>
-
-<h3>📊 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyachowdary79&theme=default" />
-</p>
 
 <h3>🤝 Connect With Me</h3>
 
