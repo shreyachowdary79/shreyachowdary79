@@ -1,13 +1,13 @@
 <p align="center">
-  <big><big><big><big><big><b>👋 Hi, I'm Shreya Chowdary</b></big></big></big></big></big>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=42&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=75&lines=%F0%9F%91%8B+Hi%2C+I'm+Shreya+Chowdary" />
 </p>
 
 <p align="center">
-  <big><big><b>📊 Data Analyst • Python • SQL • Power BI • Excel</b></big></big>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=21&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=45&lines=%F0%9F%93%8A+Data+Analyst+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=4000&pause=6000&color=4F81BD&center=true&vCenter=true&repeat=true&width=800&lines=Turning+data+into+meaningful+insights+and+practical+solutions." />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=4000&pause=6000&color=4F81BD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Turning+data+into+meaningful+insights+and+practical+solutions." />
 </p>
 
 <h3>👩‍💻 About Me</h3>
@@ -151,17 +151,15 @@ Works with environmental, rainfall, weather, API, and visualization-based data f
 <h3>🤝 Connect With Me</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shreya-b-chowdary">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-<a href="https://www.linkedin.com/in/shreya-b-chowdary">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  &nbsp;
 
-&nbsp;
-
-<a href="https://github.com/shreyachowdary79">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
-
+  <a href="https://github.com/shreyachowdary79">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
